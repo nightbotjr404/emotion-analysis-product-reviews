@@ -1,6 +1,6 @@
 #Emotion Analysis for product Reviews
 ######Prepared by : Fahad(Group leader)(S2)
-                            #Adildev(S5)
+                            #Aadildev(S5)
                             #Arjun(S5)
                             #Safin(S3)
                             #Alwin(S4)
