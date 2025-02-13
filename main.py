@@ -14,8 +14,11 @@ from nltk.classify.util import accuracy
 from sklearn.model_selection import train_test_split
 
 # Download NLTK stopwords if not already downloaded
+
 nltk.download('punkt')
+nltk.download('punkt_tab')
 nltk.download('stopwords')
+nltk.download('all')
 
 # Load the CSV dataset
 dataset = pd.read_csv('product_reviews2.csv')
